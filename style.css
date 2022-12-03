@@ -1,0 +1,19 @@
+h1 {
+    background-color: blueviolet;
+    color: white;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.font-red {
+    color: red;
+}
+
+#unique {
+    border: 5px solid greenyellow;
+}
+
+.bg-yellow {background-color: yellow;}
+.bg-green {background-color: green;}
